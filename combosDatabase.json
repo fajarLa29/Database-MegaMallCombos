@@ -1,6 +1,6 @@
 [
     {
-        "shopName":"KIDZ",
+        "shopName":"Kids",
         "store1":"Toy Disp.",
         "store2":"Candy Store",
         "store3":"Vending M.",
@@ -16,11 +16,19 @@
         "price":"Price +15"
     },
     {
-        "shopName":"SWALAA",
-        "store1":"LOL.",
-        "store2":"XD",
-        "store3":"LMAO St.",
+        "shopName":"Realtime 1",
+        "store1":"Test1.",
+        "store2":"Test2",
+        "store3":"Test3.",
         "rep":"Rep +1000",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Realtime 2",
+        "store1":"Test1.",
+        "store2":"Test2",
+        "store3":"Test3.",
+        "rep":"Rep +4500",
         "price":"Price +15"
     },
     {
