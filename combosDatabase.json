@@ -1,0 +1,86 @@
+[
+    {
+        "shopName":"Kids",
+        "store1":"Toy Disp.",
+        "store2":"Candy Store",
+        "store3":"Vending M.",
+        "rep":"Rep +10",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Neighbors",
+        "store1":"Butcher.",
+        "store2":"Greengrocer",
+        "store3":"Seafood St.",
+        "rep":"Rep +20",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Crowd",
+        "store1":"Chinise Bfft.",
+        "store2":"Rest Area",
+        "store3":"Bookstore.",
+        "rep":"Rep +10",
+        "price":"Price +20"
+    },
+    {
+        "shopName":"Girls",
+        "store1":"Florist.",
+        "store2":"Cake Shop",
+        "store3":"Clothing St.",
+        "rep":"Rep +40",
+        "price":"Price +10 "
+    },
+    {
+        "shopName":"Snacks",
+        "store1":"Fast Food.",
+        "store2":"Chinise Bfft",
+        "store3":"Cafetaria",
+        "rep":"Rep +40",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Breakfast",
+        "store1":"Bakery.",
+        "store2":"Leafy Plant",
+        "store3":"Cafe",
+        "rep":"Rep +15",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Toys",
+        "store1":"Toy Disp.",
+        "store2":"Toy Store",
+        "store3":"Game Store",
+        "rep":"Rep +40",
+        "price":"Price +10"
+    },
+    {
+        "shopName":"Convenience",
+        "store1":"Conv. Store.",
+        "store2":"Dollar Store",
+        "store3":"Drugstore",
+        "rep":"Rep +50",
+        "price":"Price +20"
+    },
+    {
+        "shopName":"Electronics",
+        "store1":"PC Store.",
+        "store2":"Appliances",
+        "store3":"Mobile Shop",
+        "rep":"Rep +50",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Laid Back",
+        "store1":"Payphones.",
+        "store2":"Vending M.",
+        "store3":"Rest Area",
+        "rep":"Qual +10",
+        "price":"Price +10"
+    }
+]
+
+
+
+
