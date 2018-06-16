@@ -16,22 +16,6 @@
         "price":"Price +15"
     },
     {
-        "shopName":"Realtime 1",
-        "store1":"Test1.",
-        "store2":"Test2",
-        "store3":"Test3.",
-        "rep":"Rep +1000",
-        "price":"Price +15"
-    },
-    {
-        "shopName":"Realtime 2",
-        "store1":"Test1.",
-        "store2":"Test2",
-        "store3":"Test3.",
-        "rep":"Rep +4500",
-        "price":"Price +15"
-    },
-    {
         "shopName":"Crowd",
         "store1":"Chinise Bfft.",
         "store2":"Rest Area",
@@ -94,9 +78,173 @@
         "store3":"Rest Area",
         "rep":"Qual +10",
         "price":"Price +10"
+    },
+    {
+        "shopName":"Grocery",
+        "store1":"Gourmet Deli.",
+        "store2":"Cake Shop.",
+        "store3":"Supermarket",
+        "rep":"Rep +50",
+        "price":"Price +10"
+    },
+    {
+        "shopName":"Gentleman",
+        "store1":"Shoe Store.",
+        "store2":"Watch Store.",
+        "store3":"Glasses St.",
+        "rep":"Rep +60",
+        "price":"Price +10"
+    },
+    {
+        "shopName":"Living",
+        "store1":"Supermarket.",
+        "store2":"Service C.",
+        "store3":"Payphones.",
+        "rep":"Rep +10",
+        "price":"Price +12"
+    },
+    {
+        "shopName":"Dreams",
+        "store1":"Lottery Shop.",
+        "store2":"Fortune Tllr.",
+        "store3":"Ticket Outlet.",
+        "rep":"Rep +40",
+        "price":"Price +12"
+    },
+    {
+        "shopName":"Relaxation",
+        "store1":"Rest Area.",
+        "store2":"Fountain.",
+        "store3":"Vending M.",
+        "rep":"Qual +30",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Sound",
+        "store1":"CD Store.",
+        "store2":"Stereo Shop.",
+        "store3":"Video Rental.",
+        "rep":"Rep +60",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Wisdom",
+        "store1":"Bookstore.",
+        "store2":"Service C.",
+        "store3":"ATM.",
+        "rep":"Rep +5",
+        "price":"Price +20"
+    },
+    {
+        "shopName":"Pleasure",
+        "store1":"Bowling All.",
+        "store2":"Karaoke Clb.",
+        "store3":"Steakhouse.",
+        "rep":"Rep +60",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Ent.",
+        "store1":"Bowling All",
+        "store2":"Arcade.",
+        "store3":"Lockers.",
+        "rep":"Rep +35",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Theater",
+        "store1":"Stereo Shop.",
+        "store2":"Video Rental.",
+        "store3":"Cinema.",
+        "rep":"Rep +35",
+        "price":"Price +10"
+    },
+    {
+        "shopName":"Fashion",
+        "store1":"Shoe Store.",
+        "store2":"Clothing St.",
+        "store3":"Boutique.",
+        "rep":"Rep +50",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Fun",
+        "store1":"Arcade.",
+        "store2":"Game Store.",
+        "store3":"Video Rental.",
+        "rep":"Rep +50",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Seniors",
+        "store1":"Sushi Bar.",
+        "store2":"Camera St.",
+        "store3":"Spa.",
+        "rep":"Rep +50",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Jewerly",
+        "store1":"Home Goods.",
+        "store2":"Furniture St.",
+        "store3":"Jeweler.",
+        "rep":"Rep +50",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Model",
+        "store1":"Hair Salon.",
+        "store2":"Nail Salon.",
+        "store3":"Cosmetics.",
+        "rep":"Rep +50",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Celebrity",
+        "store1":"Jeweler.",
+        "store2":"Casino.",
+        "store3":"Chandelier.",
+        "rep":"Rep +30",
+        "price":"Price +25"
+    },
+    {
+        "shopName":"Luxury",
+        "store1":"Casino.",
+        "store2":"Aquarium.",
+        "store3":"Cinema.",
+        "rep":"Rep +50",
+        "price":"Price +25"
+    },
+    {
+        "shopName":"Scenery",
+        "store1":"Bar.",
+        "store2":"Fancy Bistro.",
+        "store3":"Obsrvtn Dck.",
+        "rep":"Rep +50",
+        "price":"Price +25"
+    },
+    {
+        "shopName":"Drinks",
+        "store1":"Bar.",
+        "store2":"Cafe.",
+        "store3":"Vending M.",
+        "rep":"Rep +30",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Holiday",
+        "store1":"Planetarium.",
+        "store2":"Museum.",
+        "store3":"Aquarium.",
+        "rep":"Rep +50",
+        "price":"Price +15"
+    },
+    {
+        "shopName":"Date",
+        "store1":"Rest Area.",
+        "store2":"Aquarium.",
+        "store3":"Cinema.",
+        "rep":"Rep +30",
+        "price":"Price +20"
     }
 ]
-
-
-
-
